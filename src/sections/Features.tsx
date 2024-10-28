@@ -164,10 +164,10 @@ export const Features = () => {
   return (
     <section id="feature" className="py-20 md:py-24">
       <div className="container">
-        <h2 className="text-5xl md:text-6xl font-medium text-center tracking-tight">
+        <h2 className="text-5xl font-display text-primary md:text-6xl font-medium text-center tracking-tight">
           Elevate your SEO efforts.
         </h2>
-        <p className="text-white/70 text-lg md:text-xl max-w-2xl mx-auto tracking-tight text-center mt-5">
+        <p className="text-white/70 font-display text-primary text-lg md:text-xl max-w-2xl mx-auto tracking-tight text-center mt-5">
           From Small startups to larget enterprises, our AI-driven tool has
           revolutionized the way businesses approch SEO.
         </p>

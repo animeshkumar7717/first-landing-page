@@ -59,22 +59,22 @@ export const AboutMe = () => {
             </p>
             <div className="mt-8 space-y-6">
               <div className="border border-white/15 p-4 rounded-lg bg-gradient-to-b from-[rgba(74,32,138,0.7)] to-[rgba(14,0,36,0.8)] shadow-md">
-                <p className="text-lg">
+                <p className="text-lg font-display text-primary">
                   &quot;With Sudha’s expertise, our SEO strategy has reached new
                   heights. Her innovative ideas and vibrant energy have brought
                   real, lasting impact to our marketing efforts.&quot;
                 </p>
-                <span className="text-white/70 mt-4 block">
+                <span className="text-white/70 mt-4 block font-display text-primary">
                   – Jamie Lee, Founder @ Pulse
                 </span>
               </div>
               <div className="border border-white/15 p-4 rounded-lg bg-gradient-to-b from-[rgba(74,32,138,0.7)] to-[rgba(14,0,36,0.8)] shadow-md">
-                <p className="text-lg">
+                <p className="text-lg font-display text-primary">
                   &quot;Working with Sudha has been a game-changer—her expert,
                   user-centered SEO brought impactful, measurable growth to our
                   platform.&quot;
                 </p>
-                <span className="text-white/70 mt-4 block">
+                <span className="text-white/70 mt-4 block font-display text-primary">
                   – Alec Whitten, CTO @ Tech Solutions
                 </span>
               </div>

@@ -26,6 +26,12 @@ export const Footer = () => {
               About
             </a>
             <a
+              href="#service"
+              className="text-white/70 hover:text-white text-xs md:text-sm transition"
+            >
+              Service
+            </a>
+            <a
               href="#feature"
               className="text-white/70 hover:text-white text-xs md:text-sm transition"
             >
