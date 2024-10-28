@@ -25,6 +25,12 @@ export const Header = () => {
                 About
               </a>
               <a
+                href="#service"
+                className="text-white/70 hover:text-white transition"
+              >
+                Service
+              </a>
+              <a
                 href="#feature"
                 className="text-white/70 hover:text-white transition"
               >

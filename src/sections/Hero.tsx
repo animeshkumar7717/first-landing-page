@@ -117,7 +117,7 @@ export const Hero = () => {
         <h1 className="text-4xl md:text-5xl md:leading-none font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_left,white,white,rgb(74,32,138,.5))] text-transparent bg-clip-text text-center">
           Sudha Pandey
         </h1>
-        <p className="text-sm md:text-lg text-white/70 mt-5 text-center max-w-[15rem] md:max-w-sm mx-auto">
+        <p className="text-sm font-display text-primary md:text-lg text-white/70 mt-5 text-center max-w-[15rem] md:max-w-sm mx-auto">
           Elevate Your Site Visibility Effortlessly with AI-Powered SEO: Where
           Smart Technology Meets User-Friendly Marketing Tools.
         </p>

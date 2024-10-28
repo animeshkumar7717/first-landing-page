@@ -26,7 +26,11 @@ const config: Config = {
       md: "768px",
       lg: "1200px",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        display: ['"Pacifico"', "cursive"], // Use a playful font like Pacifico or similar
+      },
+    },
   },
   plugins: [],
 };
