@@ -51,13 +51,14 @@ export const AboutMe = () => {
               About Me
             </h2>
             <p className="text-base md:text-lg text-white/80 mt-3 max-w-md">
-              &quot;Hello! I&apos;m Sudha Pandey, your go-to SEO and digital
-              marketing strategist with a flair for driving success in the
-              digital world. My mission? To elevate your brand&apos;s online
-              presence, turning clicks into loyal customers and analytics into
-              actionable insights.&quot;
+              &quot;Hello! I&apos;m Sudha Pandey, your go-to digital marketing
+              and social media strategist with a knack for boosting online
+              engagement and visibility. My mission? To amplify your
+              brand&apos;s social media presence, transforming followers into a
+              loyal community and data into impactful growth strategies, all
+              while enhancing your SEO for maximum reach.&quot;
             </p>
-            <div className="mt-8 space-y-6">
+            {/* <div className="mt-8 space-y-6">
               <div className="border border-white/15 p-4 rounded-lg bg-gradient-to-b from-[rgba(74,32,138,0.7)] to-[rgba(14,0,36,0.8)] shadow-md">
                 <p className="text-lg font-display text-primary">
                   &quot;With Sudha’s expertise, our SEO strategy has reached new
@@ -78,7 +79,7 @@ export const AboutMe = () => {
                   – Alec Whitten, CTO @ Tech Solutions
                 </span>
               </div>
-            </div>
+            </div> */}
 
             <div className="flex justify-start mt-8">
               <a
@@ -96,7 +97,7 @@ export const AboutMe = () => {
             <img
               src={sudhaImage.src}
               alt="Sudha Pandey"
-              className="rounded-lg shadow-lg border border-white/20"
+              className="rounded-lg shadow-lg"
             />
           </div>
         </motion.div>
