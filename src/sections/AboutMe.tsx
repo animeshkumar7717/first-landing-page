@@ -83,7 +83,7 @@ export const AboutMe = () => {
 
             <div className="flex justify-start mt-8">
               <a
-                href="https://wa.me/9128952819"
+                href="https://wa.me/1234567898"
                 target="_blank"
                 rel="noopener noreferrer"
               >
