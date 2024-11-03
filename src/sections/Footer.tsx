@@ -43,12 +43,6 @@ export const Footer = () => {
             >
               Clients
             </a>
-            <a
-              href="#contact"
-              className="text-white/70 hover:text-white text-xs md:text-sm transition"
-            >
-              Contact
-            </a>
           </nav>
           {/* right */}
           <div className="flex gap-5 lg:flex-1 lg:justify-end">
