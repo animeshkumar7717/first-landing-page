@@ -57,7 +57,7 @@ export const AboutMe = () => {
               presence, turning clicks into loyal customers and analytics into
               actionable insights.&quot;
             </p>
-            <div className="mt-8 space-y-6">
+            {/* <div className="mt-8 space-y-6">
               <div className="border border-white/15 p-4 rounded-lg bg-gradient-to-b from-[rgba(74,32,138,0.7)] to-[rgba(14,0,36,0.8)] shadow-md">
                 <p className="text-lg font-display text-primary">
                   &quot;With Sudha’s expertise, our SEO strategy has reached new
@@ -78,7 +78,7 @@ export const AboutMe = () => {
                   – Alec Whitten, CTO @ Tech Solutions
                 </span>
               </div>
-            </div>
+            </div> */}
 
             <div className="flex justify-start mt-8">
               <a
@@ -96,7 +96,7 @@ export const AboutMe = () => {
             <img
               src={sudhaImage.src}
               alt="Sudha Pandey"
-              className="rounded-lg shadow-lg border border-white/20"
+              className="rounded-lg shadow-lg"
             />
           </div>
         </motion.div>
