@@ -1,6 +1,8 @@
 /** @format */
 
 import LogoIcon from "@/assets/logo.svg";
+// import spLogo from "@/assets/sp_logo.png";
+import SpLogo from "@/assets/sp_icon.svg";
 import MenuIcon from "@/assets/icon-menu.svg";
 import Button from "@/components/Button";
 
@@ -13,7 +15,8 @@ export const Header = () => {
           <div className="absolute inset-0 backdrop-blur -z-10 hidden md:block"></div>
           <div className="border h-10 w-10 rounded-lg inline-flex justify-center items-center border-white/15">
             <a href="#hero">
-              <LogoIcon className="h-8 w-8" />
+              <SpLogo className="h-16 w-16" />
+              {/* <img src={spLogo} alt="Logo" className="h-8 w-8" /> */}
             </a>
           </div>
           <div className="hidden md:block">
