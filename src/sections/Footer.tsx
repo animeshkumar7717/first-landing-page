@@ -15,7 +15,7 @@ export const Footer = () => {
           {/* left */}
           <div className="flex gap-2 items-center lg:flex-1">
             <a href="#hero">
-              <SpLogo className="h-20 w-20" />
+              <SpLogo className="h-20 w-20 -ml-10" />
             </a>
             <div className="-ml-20">
               <SpName className="h-20 w-48" />
