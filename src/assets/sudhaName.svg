@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520.95 427.62">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        fill: #b196c6;
+        font-family: FONTSPRINGDEMO-QuincyCFRegular, 'FONTSPRING DEMO - Quincy CF';
+        font-size: 42.71px;
+      }
+
+      .cls-3 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4 {
+        fill: #634c9c;
+        font-family: FONTSPRINGDEMO-QuincyCFBold, 'FONTSPRING DEMO - Quincy CF';
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 67.57px;
+      }
+
+      .cls-7 {
+        letter-spacing: .03em;
+      }
+
+      .cls-8 {
+        font-size: 140.34px;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(126 265.42)"><tspan class="cls-8" x="0" y="0">S</tspan><tspan class="cls-6" x="79.99" y="0">U</tspan><tspan class="cls-5" x="127.96" y="0">D</tspan><tspan class="cls-6" x="173.98" y="0">HA </tspan></text>
+  <text class="cls-2" transform="translate(213.2 211.2)"><tspan class="cls-1" x="0" y="0">P</tspan><tspan class="cls-7" x="22.89" y="0">AN</tspan><tspan class="cls-3" x="84.14" y="0">D</tspan><tspan class="cls-7" x="112.33" y="0">EY</tspan></text>
+</svg>

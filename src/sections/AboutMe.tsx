@@ -83,9 +83,9 @@ export const AboutMe = () => {
 
             <div className="flex justify-start mt-8">
               <a
-                href="https://wa.me/1234567898"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="#contact"
+                // target="_blank"
+                // rel="noopener noreferrer"
               >
                 <Button className="px-8 py-3">Contact Me</Button>
               </a>

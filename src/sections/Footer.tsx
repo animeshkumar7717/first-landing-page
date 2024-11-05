@@ -1,5 +1,7 @@
 /** @format */
-import Logo from "@/assets/logo.svg";
+// import Logo from "@/assets/logo.svg";
+import SpLogo from "@/assets/sp_icon.svg";
+import SpName from "@/assets/sudhaName.svg";
 import XSocial from "@/assets/social-x.svg";
 import InstaSocial from "@/assets/social-instagram.svg";
 import YTSocial from "@/assets/social-youtube.svg";
@@ -13,9 +15,13 @@ export const Footer = () => {
           {/* left */}
           <div className="flex gap-2 items-center lg:flex-1">
             <a href="#hero">
-              <Logo className="h-6 w-6" />
+              <SpLogo className="h-20 w-20" />
             </a>
-            <div className="font-medium">Sudha Pandey Langing Page</div>
+            <div className="-ml-20">
+              <SpName className="h-20 w-48" />
+            </div>
+
+            {/* <div className="font-medium">Sudha Pandey Langing Page</div> */}
           </div>
           {/* middle */}
           <nav className="flex flex-col lg:flex-row gap-5 lg:gap-7 lg:flex-1 lg:justify-center">
@@ -42,12 +48,6 @@ export const Footer = () => {
               className="text-white/70 hover:text-white text-xs md:text-sm transition"
             >
               Clients
-            </a>
-            <a
-              href="#contact"
-              className="text-white/70 hover:text-white text-xs md:text-sm transition"
-            >
-              Contact
             </a>
           </nav>
           {/* right */}
