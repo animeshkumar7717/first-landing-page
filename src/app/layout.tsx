@@ -20,8 +20,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        {/* <link rel="icon" href="/favicon.ico" /> */}
-        <link rel="icon" href="/assets/sp_icon.svg" />
+        <link rel="icon" href="/favicon.ico" />
+        {/* <link rel="icon" href="/sp_logo.ico" /> */}
+        {/* <link rel="icon" href="/assets/sp_icon.svg" /> */}
       </head>
       <body
         className={twMerge(inter.className, "bg-black text-white antialiased")}
