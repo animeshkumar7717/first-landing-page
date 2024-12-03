@@ -28,6 +28,16 @@ export const Hero = () => {
     [-300, 300]
   );
 
+  const handleDownload = () => {
+    const pdfUrl = "/assets/Sudha Brochure.pdf";
+    const link = document.createElement("a");
+    link.href = pdfUrl;
+    link.setAttribute("download", "Sudha Brochure.pdf");
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   return (
     <motion.section
       ref={sectionRef}
@@ -122,7 +132,7 @@ export const Hero = () => {
           Where Innovation Meets Engaging Content Creation
         </p>
         <div className="flex justify-center mt-5">
-          <Button>Join Waitlist</Button>
+          <Button onClick={handleDownload}>Join Waitlist</Button>
         </div>
       </div>
     </motion.section>
