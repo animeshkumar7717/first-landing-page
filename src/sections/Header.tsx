@@ -8,7 +8,7 @@ import Button from "@/components/Button";
 
 export const Header = () => {
   const handleDownload = () => {
-    const pdfUrl = "/assets/Sudha Brochure.pdf";
+    const pdfUrl = "/assets/SudhaBrochure.pdf";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.setAttribute("download", "Sudha Brochure.pdf");
