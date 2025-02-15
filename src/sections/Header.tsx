@@ -59,7 +59,8 @@ export const Header = () => {
           </div>
           <div className="flex gap-4 items-center">
             {/* <Button onClick={handleDownload}>Join Waitlist</Button> */}
-            <Button onClick={handleDownload}>Join Waitlist</Button>
+            {/* <Button onClick={handleDownload}>Join Waitlist</Button> */}
+            <Button onClick={handleDownload}>Download Brochure</Button>
             <div className="">
               <MenuIcon className="md:hidden" />
             </div>

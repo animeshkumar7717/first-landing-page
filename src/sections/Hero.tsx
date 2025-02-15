@@ -132,7 +132,7 @@ export const Hero = () => {
           Where Innovation Meets Engaging Content Creation
         </p>
         <div className="flex justify-center mt-5">
-          <Button onClick={handleDownload}>Join Waitlist</Button>
+          <Button onClick={handleDownload}>Download Brochure</Button>
         </div>
       </div>
     </motion.section>

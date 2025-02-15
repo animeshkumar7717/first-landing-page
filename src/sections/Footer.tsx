@@ -60,7 +60,8 @@ export const Footer = () => {
               <XSocial className="text-white/40 hover:text-white transition" />
             </a>
             <a
-              href="https://www.instagram.com/adswalimarketing?igsh=MTQ0d20yNzBiOXBoeg=="
+              // href="https://www.instagram.com/adswalimarketing?igsh=MTQ0d20yNzBiOXBoeg=="
+              href="https://www.instagram.com/sudhapandeysp__/"
               target="_blank"
               rel="noopener noreferrer"
             >
