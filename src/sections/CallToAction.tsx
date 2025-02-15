@@ -192,7 +192,7 @@ export const CallToAction = () => {
               ></textarea>
               <div className="flex justify-center mt-4">
                 <Button type="submit" className="px-8 py-2">
-                  Send
+                  Send Mail
                 </Button>
               </div>
             </form>
